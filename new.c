@@ -4,4 +4,5 @@
 int main()
 {
 printf("HELLO WORLD");
+printf("FIRST CODE");
 }
